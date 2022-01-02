@@ -28,5 +28,8 @@ public class HandlePopUp {
         alert.accept();//click ok
         //allert.dismiss()//click on cacel button
 
+        //handling windowpop(which is a part of os)
+    //  driver.findElement(By.xpath()).sendKeys("path of file");  do not click
+
     }
 }

@@ -4,6 +4,8 @@
       <root url="file://$PROJECT_DIR$/../../selenium-java-4.1.0" />
       <root url="file://$PROJECT_DIR$/../../selenium-java-4.1.0/lib" />
       <root url="jar://$PROJECT_DIR$/../../slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../htmlunit-driver-3.56.0-jar-with-dependencies.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

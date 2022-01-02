@@ -1,0 +1,28 @@
+//input[@name='username']
+//input[@name='password']
+//input[@type='submit' and @value='login']
+
+for links
+a give me all the a
+//a[text()='Features']//text of the link
+with contains
+//a[contains(text(),'Features')]--recommended
+
+for button
+//button[@type='button'and @class='btn']  for more robust
+//button[contains(text(),'Sign Up')]
+
+
+
+
+//a[contains(text(),'Alerts')]//if there are threee then it would not work
+then use
+//a[text()='Alerts']
+
+//div[@class='dropdown']//button(@type='button' and @class='btn btn-secondary dropdown-toggle'and @id='dropdownMenuButton')-->this is  just to sshow we cna use direxgtly id but we are using parrent div then we go to child button
+
+//a[text()='Bootstrap']
+
+//a[text()='test2 test2']//parent::td[@class='dataliststrow']//preceding-sibling::td[@class='datalistrow']//input[@name='contact_id']
+-->first i go to a link then goes to the parent of a link of particular class
+then take precedign sibling of particular class then go ot the input element of that elemetn
