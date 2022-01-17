@@ -21,8 +21,8 @@ public class GoogleSearchHandling18 {
    Thread.sleep(2000);
   //this is working //List<WebElement> elements=driver.findElements(By.xpath("//ul[@class='G43f7e']//li/div[1]/div[2]/div[1]/span"));
       //this is not working // List<WebElement> elements=driver.findElements(By.xpath("//ul[@class='G43f7e']//li/descendant::div[@class='wM6W7d'])"));
-  for(WebElement element:elements)
-      System.out.println(element.getText());
+//  for(WebElement element:elements)
+//      System.out.println(element.getText());
 
     }
 

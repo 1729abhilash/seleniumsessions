@@ -9,7 +9,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 
 
-public class HeadLess {
+class HeadLess {
 
     public static void main(String[] args) {
 
