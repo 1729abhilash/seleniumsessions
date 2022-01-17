@@ -39,7 +39,7 @@ public class GoogleTitleTest {
         // we dcan define the priority in test cases also
         //test cases are i
         //reort will bbe geenerted by gorups
-  //   Assert.assertTrue(//we are expecting true);
+  //   A  ssert.assertTrue(//we are expecting true);
     }
 
 
@@ -47,6 +47,6 @@ public class GoogleTitleTest {
     public void tearDown(){
         driver.quit();
     }
-
+//we can run alll testng clases within an xml file by defining class name in the xml file
 
 }
